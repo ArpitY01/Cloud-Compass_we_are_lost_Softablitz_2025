@@ -1,0 +1,16 @@
+# Ignore NetBeans build folders
+/build/
+/dist/
+
+# Ignore compiled classes
+/**/*.class
+
+# Ignore NetBeans private configs
+/nbproject/private/
+
+/nbproject/private/
+/nbbuild/
+/nbdist/
+/.nb-gradle/
+
+/out/
